@@ -1,9 +1,9 @@
-# Read First Number 1
+# Read  the first Number 1
 >
 ,
 >
 ,
-# Read Second Number in 2
+# Read the second Number in 2
 # 0 : 0
 <<
 # Convert to Number (Substract 48)
@@ -65,7 +65,7 @@
 
 # First Value is in Cell 3 (4)
 
-# Calculate Second Value
+# Calculate the second Value
 # (Substracts 10 - Highest Value inputed)
 # Cells 2 - 5)
 
