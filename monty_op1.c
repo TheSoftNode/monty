@@ -63,7 +63,7 @@ void _pint(stack_t **stack, unsigned int line_number)
 }
 /**
  * _pop - removes the top element of the stack
- * @stack: Pointer to head of stack (or queue)
+ * @stack: pointer to head of stack (or queue)
  * @line_number: Current line number
  *
  * Return: No Return

@@ -91,7 +91,7 @@ void _rotr(stack_t **stack, unsigned int line_number);
 void _stack(stack_t **stack, unsigned int line_number);
 void _queue(stack_t **stack, unsigned int line_number);
 
-/** Aux Functions **/
+/** Monty helper Functions **/
 int get_opcode(char *opcode);
 void exit_op(void);
 
