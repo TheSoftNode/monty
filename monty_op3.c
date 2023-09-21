@@ -3,7 +3,7 @@
 /**
  * _mod - computes the rest of the division of the second top element of
  * the stack by the top element of the stack.
- * @stack: Pointer to head of stack (or queue)
+ * @stack: Pointer to the head of stack (or queue)
  * @line_number: Current line number
  *
  * Return: No Return
@@ -36,7 +36,7 @@ void _mod(stack_t **stack, unsigned int line_number)
 }
 /**
  * _pchar - prints the char at the top of the stack, followed by a new line
- * @stack: Pointer to head of stack (or queue)
+ * @stack: Pointer to the head of stack (or queue)
  * @line_number: Current line number
  *
  * Return: No Return
@@ -68,7 +68,7 @@ void _pchar(stack_t **stack, unsigned int line_number)
  * _pstr - prints the string starting at the top of the stack, followed
  * by a new line
  * top element of the stack
- * @stack: Pointer to head of stack (or queue)
+ * @stack: Pointer to the head of stack (or queue)
  * @line_number: Current line number
  *
  * Return: No Return
