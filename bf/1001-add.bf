@@ -1,8 +1,8 @@
-# Read First Number
+# Read first Number
 # 0
 ,
 >
-# Read Second Number
+# Read second Number
 # 1
 ,
 # Add two Numbers
