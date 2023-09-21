@@ -46,7 +46,7 @@ int get_opcode(char *opcode)
 	exit(EXIT_FAILURE);
 }
 /**
- * exit_op - performs exit operations (free/close)
+ * exit_op - performs the exit operations (free/close)
  * Return: No Return
  */
 void exit_op(void)
